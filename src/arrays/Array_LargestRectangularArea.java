@@ -1,6 +1,7 @@
 package arrays;
 
 public class Array_LargestRectangularArea {
+
 }
 
   /*
